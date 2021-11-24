@@ -10,6 +10,15 @@ function App() {
     <div className="container">
       <h1> Weather App </h1>
       <Weather />
+      <br />
+      <a
+        href="https://github.com/TSoMoLu/sandbox-react"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Open-source code
+      </a>{" "}
+      by Tanimola Somolu
     </div>
   );
 }
